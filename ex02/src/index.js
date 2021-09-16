@@ -8,6 +8,6 @@ function main () {
     // Only change code above this line
 }
 
-main();
+console.log(main());
 
 module.exports = main;
