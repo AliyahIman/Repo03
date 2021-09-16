@@ -5,5 +5,4 @@ function main () {
 }
 
 main();
-
 module.exports = main;
